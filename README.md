@@ -45,7 +45,7 @@ Warehouse costs and stock-outs have been reduced by developing a scalable set of
     - `05_Preselección de variables.ipynb`: Notebook used to desing the feature selection process.
     - `06_Modelización para Regresion.ipynb`: Notebook for modelling the predictive forecasting models. Model selection, hyperparameterisation, evaluation. Designed functios for individual modelling, massive modelling and recursive massive modelling.
     - `07_Preparacion del codigo de produccion.ipynb`: Notebook used to compile all the quality, transformation as well as the final models, execution and retraining processes, with the aim of creating the final retraining and execution pipes that condense all the aforementioned processes.
-  - :file_folder: 03_Systema
+  - :file_folder: 03_Sistema
     - This folder contains the files (app script, production script, models, functions ...) used in the models deployment.
 - :file_folder: 04_Modelos
   - `lista_modelos_retail.pickle`: contains all developed models.
