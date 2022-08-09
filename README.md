@@ -11,7 +11,7 @@
 ## Introduction <a name="introduction"></a>
 The client is a large American retailer that desires to implement a sales prediction system based on artificial intelligence algorithms.
 
-- [See a detailed technical explanation of project here.](https://pedrocorma.github.io/project/0forecasting/)
+- [See a detailed technical explanation of the project here.](https://pedrocorma.github.io/project/0forecasting/)
 
 ## Objectives <a name="objectives"></a>
 Developing a set of machine learning models on a three-year-history SQL database to predict sales for the next 8 days at the store-product level using massive modelling techniques.
