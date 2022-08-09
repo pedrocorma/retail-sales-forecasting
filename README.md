@@ -5,11 +5,8 @@
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Project results](#project-results)
-    - [Predictive expected financial loss model + web application](#expected-loss-model)
-    - [Business Insights](#business-insights)
 - [Project structure](#project-structure)
 - [Instructions](#instructions)
-- [License](#licensing)
 
 ## Introduction <a name="introduction"></a>
 The client is a large American retailer that desires to implement a sales prediction system based on artificial intelligence algorithms.
@@ -19,9 +16,8 @@ The client is a large American retailer that desires to implement a sales predic
 ## Objectives <a name="objectives"></a>
 Developing a set of machine learning models on a three-year-history SQL database to predict sales for the next 8 days at the store-product level using massive modelling techniques.
 
-
-
-
+## Project results  <a name="project-results"></a>
+Warehouse costs and stock-outs have been reduced by developing a scalable set of recursive forecasting machine learning models that predict the demand in the next 8 days at store-product level.
 
 ## Instructions  <a name="instructions"></a>
 The project should be run using exactly the same environment in which it was created.
