@@ -1,5 +1,7 @@
 # Retail sales forecasting
 
+![Esta es una imagen](/01_Documents/00_Images/featured.png)
+
 - [Introduction](#introduction)
 - [Objectives](#objectives)
 - [Project results](#project-results)
